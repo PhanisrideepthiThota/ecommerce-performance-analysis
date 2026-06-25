@@ -7,7 +7,7 @@ This case study demonstrates how data analysis can be used to evaluate business 
 
 ---
 
-## 📂 Project Structure
+## 📂 Structure
 
 * **data/** → Dataset files (orders, order details, sales targets)
 * **notebooks/** → Jupyter notebook containing full analysis
