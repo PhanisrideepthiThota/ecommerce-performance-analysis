@@ -1,4 +1,4 @@
-# 📊 E-Commerce Business Performance Analysis (Case Study)
+#  E-Commerce Business Performance Analysis (Case Study)
 
 ## 🎯 Objective
 
